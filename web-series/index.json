@@ -1998,3 +1998,26 @@
     "releaseDate": "15 October 2020"
 }
 ]
+{
+    "id": 105,
+    "name": "Special ops",
+    "rating": 8.6,
+    "description":  "Special ops is an Indian Hindi-language action espionage thriller web series for hotstar specials",
+    "category": ["Suspense", "Thriller","Spy fiction"],
+    "platform": "Hotstar",
+    "casting": {
+        "actors": [
+            "Kay Kay Menon",
+            "Sana Khan",
+            "Neeraj Pandey",
+            "Gautami Kapoor",
+            "Karan Tacker"
+        ],
+        "director": ["Shivam Nair"]
+    },
+    "poster": "https://www.imdb.com/title/tt11854694/",
+    "episodeCount": 8,
+    "seasons": 2,
+    "releaseDate": "17 March 2020"
+}
+],
