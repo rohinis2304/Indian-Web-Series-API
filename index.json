@@ -1904,3 +1904,26 @@
     }
   }
 ]
+{
+    "id": 98,
+    "name": "Hostages",
+    "rating": 6.8,
+    "description": "A doctor is placed eith a tough predicament when family members are held hostage and the only way to save the is by participating in the assassinationof a key political figure",
+    "category": ["Thriller"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": [
+        "Tisca Chopra",
+        "Parvin Dabas",
+        "Ronit Roy",
+        "Mohan Kapoor",
+        "Malhaar Rathod"
+      ],
+      "director": ["Sudhir Mishra"]
+    },
+    "poster": "https://www.imdb.com/title/tt9094282/mediaindex",
+    "episodeCount total": 22,
+    "seasons": 2,
+    "releaseDate": {
+      "S1": "31 May 2019"
+    }
