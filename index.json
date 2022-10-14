@@ -1927,3 +1927,28 @@
     "releaseDate": {
       "S1": "31 May 2019"
     }
+  {
+    "id": 99,
+    "name": "Rudra: The age of darkness",
+    "rating": 6.7,
+    "description": "DCP Rudraveer Pratap Singh "Rudra" (Ajay Devgn) is pursuing a suspect who ends up in a comatose state in the hospital. After an inquiry into what happened, he is reinstated in the force months later, but the time apart has taken its toll on him.",
+    "category": ["Crime Thriller"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": [
+        "Ajay Devgan",
+        "Raashi Khanna",
+        "Atul Kulkarni",
+        "Ashwini Kalsekar",
+        "Esha Deol"
+      ],
+      "director": ["	Rajesh Mapuskar"]
+    },
+    "poster": "https://www.imdb.com/title/tt14486948/",
+    "episodeCount total": 6,
+    "seasons": 1,
+    "releaseDate": {
+      "S1": "4 March 2022"
+    }
+}
+
